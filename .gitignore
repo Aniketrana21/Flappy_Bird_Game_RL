@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Conda
+.conda/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# TensorBoard
+runs/
+
+# Models
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
